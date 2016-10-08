@@ -1,0 +1,19 @@
+{
+  "name": "express-pug",
+  "version": "1.0.0",
+  "description": "Serve static pug files.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyto/express-pug.git"
+  },
+  "engines": {
+    "node": ">= 4.0"
+  },
+  "author": "Andy To <andyto@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andyto/express-pug/issues"
+  },
+  "homepage": "https://github.com/andyto/express-pug#readme"
+}
